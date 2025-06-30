@@ -1,0 +1,17 @@
+
+
+
+.greenStyle {
+background-color: green;
+border: 2px sollid lightgreen;
+width: 400px;
+height: 400px;
+}
+
+.redStyle {
+   background-color: red; 
+   border: 2px sollid magenta;
+   width: 400px;
+   height: 400px;
+
+}
